@@ -1,6 +1,6 @@
 # Text_Mining_Social_Media
 
-El report es : Text Mining en Social Media (Rafa Vallejo)
+El report es : Report Text Mining (Rafa Vallejo).pdf
 
 El código es: pan-ap17.r + prueba.R 
 
